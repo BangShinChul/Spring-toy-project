@@ -13,9 +13,3 @@ Spring 4.3.9 use toy project
 먼저 mybatis로 작업할 예정,
 추후에 기회가 된다면 hibernate도 사용해볼 것임.
 테스트이기 때문에 일단 useSSL은 false로 셋업함.
-
-
-20180410
-* mybatis연결작업 및 연결확인 테스트
-- DB test table 생성 및 데이터 insert 작업
-- DAO,Service,Controller부분 설계 중
