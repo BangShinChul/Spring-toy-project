@@ -19,7 +19,7 @@
 		<property name="driverClassName" value="com.mysql.cj.jdbc.Driver" />
 		<property name="url" value="jdbc:mysql://127.0.0.1:3306/bangshinchul" />
 		<property name="username" value="bsc" />
-		<property name="password" value="Tlscjf.12@" /> 
+		<property name="password" value="Tlscjf.12@" /> 		
 	</bean>
 	
 	
