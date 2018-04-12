@@ -19,3 +19,7 @@ Spring 4.3.9 use toy project
 * mybatis연결작업 및 연결확인 테스트
 - DB test table 생성 및 데이터 insert 작업
 - DAO,Service,Controller부분 설계 중
+
+20180413
+* Mybatis 테스트중 serverTimeZone 이슈 발생
+원인 및 해결책 찾아볼것
